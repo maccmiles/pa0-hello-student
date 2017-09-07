@@ -1,11 +1,11 @@
 package edu.wit.cs.comp1000;
 
-// TODO: document this class
+// Miles Macchiaroli
 public class PA0a {
 	
 	// TODO: document this function
 	public static void main(String[] args) {
-		// TODO: write your code here
+		System.out.println("Hello world!");
 	}
 
 }
