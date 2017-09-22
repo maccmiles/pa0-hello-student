@@ -1,0 +1,4 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA0aGrading#testHelloWorld: +100
